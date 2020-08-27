@@ -1,0 +1,28 @@
+/*<a href="" class="btn btn-primary">Make Money Now</a>*/
+
+.btn {
+  display: inline-block;
+  background-color: #898989;
+  color: #f5f5f5;
+  padding: 16px 32px;
+  border-radius: 4px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #191919;
+}
+
+.btn-primary {
+  background: linear-gradient(95deg, #e66465, #e78470);
+  width: 100%;
+  max-width: 200px;
+  line-height: 24px;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(95deg, #bb4141, #bb2711);
+  font-size: 18px;
+}
+
+
